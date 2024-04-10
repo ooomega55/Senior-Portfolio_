@@ -1,64 +1,22 @@
 {
     "images": [
         {
-            "imgPath": "vacationImages/hawaiian-islands.jpg",
+            "imgPath": "Images/cruise.jpg",
             "imgLocation": "Hawaii",
             "description": "Hawaii's main island coastline",
             "date": "None"
         },
         {
-            "imgPath": "vacationImages/bermuda.jpg",
+            "imgPath": "Images/nissankicks.jpg",
             "imgLocation": "Bermuda",
             "description": "Horseshoe Bay",
             "date": "None"
         },
         {
-            "imgPath": "vacationImages/bermudacaves.JPG",
+            "imgPath": "Images/stadiumseries.jpg",
             "imgLocation": "Bermuda Cave",
             "description": "Crystal Cave",
             "date": "05/22/2017"
-        },
-        {
-            "imgPath": "vacationImages/bermudanight.jpg",
-            "imgLocation": "Bermuda from the Norwegian Joy",
-            "description": "Nighttime on the Norwegian Joy",
-            "date": "07/13/2023"
-        },
-        {
-            "imgPath": "vacationImages/goat.jpg",
-            "imgLocation": "Honolulu Zoo",
-            "description": "He gave me the look",
-            "date": "07/05/2019"
-        },
-        {
-            "imgPath": "vacationImages/honolulu.jpg",
-            "imgLocation": "Honolulu",
-            "description": "Kuhio Beach Park",
-            "date": "07/02/2019"
-        },
-        {
-            "imgPath": "vacationImages/kaanapali.jpg",
-            "imgLocation": "Kaanapali",
-            "description": "View of ocean in Maui",
-            "date": "07/12/2019"
-        },
-        {
-            "imgPath": "vacationImages/seal.jpg",
-            "imgLocation": "Sea Life Park",
-            "description": "Smiling seal",
-            "date": "07/05/2019"
-        },
-        {
-            "imgPath": "vacationImages/maui.jpg",
-            "imgLocation": "Maui",
-            "description": "Coastline of Maui",
-            "date": "07/07/2019"
-        },
-        {
-            "imgPath": "vacationImages/pearlharbor.jpg",
-            "imgLocation": "Pearl Harbor",
-            "description": "Pearl Harbor",
-            "date": "07/03/2019"
         }
   ]
 }
